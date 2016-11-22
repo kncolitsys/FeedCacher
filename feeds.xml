@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feeds>
+	<Feed>
+		<Title>USGS Shake Maps</Title>
+		<URL>http://earthquake.usgs.gov/earthquakes/catalogs/shakerss.xml</URL>
+	</Feed>
+	<Feed>
+		<Title>Travel Warnings</Title>
+		<URL>http://ws.geonames.org/rssToGeoRSS?feedUrl=http%3A%2F%2Ftravel.state.gov%2F_res%2Frss%2FTWs.xml</URL>
+	</Feed>
+	<Feed>
+		<Title>Travel Alerts</Title>
+		<URL>http://ws.geonames.org/rssToGeoRSS?feedUrl=http%3A%2F%2Ftravel.state.gov%2F_res%2Frss%2FTAs.xml</URL>
+	</Feed>
+	<Feed>
+		<Title>Breaking World News</Title>
+		<URL>http://pipes.yahoo.com/pipes/pipe.run?_id=FjNcuFlW3BG43n__GcevXg&amp;_render=rss</URL>
+	</Feed>
+		<Feed>
+		<Title>ReliefWeb Updates</Title>
+		<URL>http://ws.geonames.org/rssToGeoRSS?http%3A%2F%2Ffeeds2.feedburner.com%2FReliefwebUpdates</URL>
+	</Feed>
+	<Feed>
+		<Title>GDACS</Title>
+		<URL>http://ws.geonames.org/rssToGeoRSS?feedUrl=http%3A%2F%2Fwww.gdacs.org%2Fxml%2Frss.xml</URL>
+	</Feed>
+	<Feed>
+		<Title>USGS M5+ Earthquakes</Title>
+		<URL>http://earthquake.usgs.gov/earthquakes/catalogs/eqs7day-M5.xml</URL>
+	</Feed>
+	<Feed>
+		<Title>Volcano Watch</Title>
+		<URL>http://volcanoes.usgs.gov/rss/vhpcaprss.xml</URL>
+	</Feed>
+	<Feed>
+		<Title>Landslide Hazards</Title>
+		<URL>http://ws.geonames.org/rssToGeoRSS?feedUrl=http://www.usgs.gov/hazard_alert/alerts/landslides.rss</URL>
+	</Feed>
+	<Feed>
+		<Title>Fire Hot Spots (MODIS)</Title>
+		<URL>http://www.tucuxisoftware.com/feeds/modis.xml</URL>
+	</Feed>
+	<Feed>
+		<Title>Active Hurricane Tracks</Title>
+		<URL>http://www.tucuxisoftware.com/feeds/hurricanes.xml</URL>
+	</Feed>
+</Feeds>
+	
